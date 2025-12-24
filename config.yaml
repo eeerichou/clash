@@ -7,7 +7,7 @@
 proxy-providers:
 
   流量光:
-    url: "https://drfytjmjhggnrgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=8438e969d2e0998b3d8c8652e7fbece4"  
+    url: "https://"  
     type: http
     interval: 86400
     health-check:
